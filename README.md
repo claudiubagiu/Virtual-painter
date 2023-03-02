@@ -1,1 +1,1 @@
-# Virtual-painter
+I developed a Virtual Painter application using C++ and OpenCV. The project aimed to simulate the painting experience on a digital platform by using computer vision techniques to detect the colors and position of the brush strokes.
