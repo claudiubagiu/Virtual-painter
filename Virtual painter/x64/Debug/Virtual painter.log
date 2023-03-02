@@ -1,0 +1,4 @@
+﻿  Virtual painter.cpp
+C:\Visual Studio\Virtual painter\Virtual painter.cpp(28,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Visual Studio\Virtual painter\Virtual painter.cpp(33,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Virtual painter.vcxproj -> C:\Visual Studio\Virtual painter\x64\Debug\Virtual painter.exe
